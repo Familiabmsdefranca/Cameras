@@ -80,6 +80,88 @@ http://towercam.uu.edu/axis-cgi/mjpg/video.cgi #Name: iptvtools_5
 http://camera.butovo.com/mjpg/video.mjpg
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",
+http://195.200.199.8/axis-cgi/mjpg/video.cgi #Name: iptvtools_1
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",
+http://194.103.218.15/axis-cgi/mjpg/video.cgi #Name: iptvtools_2
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",
+http://webkamera.overtornea.se/axis-cgi/mjpg/video.cgi #Name: iptvtools_4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",
+http://towercam.uu.edu/axis-cgi/mjpg/video.cgi #Name: iptvtools_5
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",
+http://youthsailing.axiscam.net/axis-cgi/mjpg/video.cgi #Name: iptvtools_6
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",
+http://46.19.234.136/axis-cgi/mjpg/video.cgi #Name: iptvtools_7
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",
+http://195.200.199.8/axis-cgi/mjpg/video.cgi #Name: iptvtools_8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",
+http://starbuckslivecam.usm.edu/axis-cgi/mjpg/video.cgi #Name: iptvtools_9
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",
+http://webcam.salisbury.edu/axis-cgi/mjpg/video.cgi #Name: iptvtools_10
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",
+http://201.166.63.44/axis-cgi/jpg/image.cgi?resolution=CIF #Name: iptvtools_11
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",
+http://194.103.218.15/axis-cgi/jpg/image.cgi?t=1223398258669 #Name: iptvtools_12
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",
+http://vefmyndavel.akureyri.is/axis-cgi/mjpg/video.cgi #Name: iptvtools_13
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",
+http://rachleff.org/axis-cgi/mjpg/video.cgi #Name: iptvtools_14
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",
+http://195.200.199.8/axis-cgi/mjpg/video.cgi #Name: iptvtools_15
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",
+http://192.171.163.3/axis-cgi/mjpg/video.cgi #Name: iptvtools_17
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",
+http://195.200.199.8/axis-cgi/mjpg/video.cgi #Name: iptvtools_18
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",
+http://194.103.218.15/axis-cgi/mjpg/video.cgi #Name: iptvtools_19
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",
+http://webkamera.overtornea.se/axis-cgi/mjpg/video.cgi? #Name: iptvtools_21
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",
+http://towercam.uu.edu/axis-cgi/mjpg/video.cgi #Name: iptvtools_22
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",
+http://youthsailing.axiscam.net/axis-cgi/mjpg/video.cgi #Name: iptvtools_23
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",
+http://46.19.234.136/axis-cgi/mjpg/video.cgi #Name: iptvtools_24
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",
+http://195.200.199.8/axis-cgi/mjpg/video.cgi #Name: iptvtools_25
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",
+http://starbuckslivecam.usm.edu/axis-cgi/mjpg/video.cgi #Name: iptvtools_26
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",
+http://webcam.salisbury.edu/axis-cgi/mjpg/video.cgi #Name: iptvtools_27
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",
+http://201.166.63.44/axis-cgi/jpg/image.cgi #Name: iptvtools_28
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",
+http://194.103.218.15/axis-cgi/jpg/image.cgi #Name: iptvtools_29
+
+
 
 
 
