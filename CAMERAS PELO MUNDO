@@ -48,5 +48,44 @@ https://edge04.balticlivecam.com/blc/p_RU_Sochi_Roza_hutor/tracks-v1/mono.m3u8?t
 #EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",RUSSIA - SOCHI-POLYANA
 https://edge01.balticlivecam.com/blc/p_RU_Sochi_Krasnaya_Polyana/tracks-v1/mono.m3u8?token=0cc71f5e5cb85c41ddd7c346ea271cb6%3A1613498492468
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",RUSSIA - SOCHI-ADLER PRAIA
+https://edge01.balticlivecam.com/blc/p_Ru_Adler_beach/tracks-v1/mono.m3u8?token=6368ea90ba107304454eb1a8a66c65a6%3A1613501083770
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",RUSSIA - SOCHI-PRIMORSKY PRAIA
+https://edge04.balticlivecam.com/blc/p_RU_Sochi_Primorsky_Beach/tracks-v1/mono.m3u8?token=61f0579bc268f5994bd6f5e8ae9ceb3a%3A1613501262326
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",RUSSIA - SOCHI- PRAÇA DA ESTAÇÃO FERROVIARIA
+https://edge04.balticlivecam.com/blc/p_RU_Sochi_station_square/tracks-v1/mono.m3u8?token=997af21bf2e85c0315d9cb6f820cab9a%3A1613501355543
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",RUSSIA - SOCHI-IGREJA DO SANTO PRÍNCIPE VLADIMIR
+https://edge04.balticlivecam.com/blc/p_RU_Church_of_the_Holy_Prince_Vladimir_Sochi/tracks-v1/mono.m3u8?token=654a8d46182f5c1759ad225f4412db9f%3A1613505793727
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",BRASIL- PRAIA DE COPACABANA
+https://videos-3.earthcam.com/fecnetwork/6593.flv/chunklist_w521669038.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",BRASIL-RIO DE JANEIRO -BARRA DA TIJUCA
+https://cdn.jmvstream.com/w/IPC-6849/camera.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",BRASIL-ESTRADA DO GUARAU - PERUIBE-SP
+http://monitor.peruibe2.sp.gov.br/zm/cgi-bin/nph-zms?mode=jpeg&monitor=106&scale=60&maxfps=15&user=guest&pass=123456789
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",BRASIL-SÃO PAULO- JARDIM SANTA LUZIA
+https://p2p-qlv-7.camerite.services/live/umksdm3j279e.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",BRASIL-SÃO PAULO- RUA CASEMIRO DE ABREU-BRAS
+https://p2p-qlv-7.camerite.services/live/umkskqjemwsh.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",BRASIL-RS- CAXIAS DO SUL-Praça Dante Alighieri-Sinimbú
+https://video-cam.bitcom.psi.br/CSL-PRACA-DANTE-SINIMBU/CSL-PRACA-DANTE-SINIMBU.stream/chunklist_w1613357618.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",BRASIL-APARECIDA DO NORTE-BASILICA - CAPELA CENTRAL
+https://caikron.com.br/player/santaparecida/canal5/
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",BRASIL-PARANA- CASCAVEL 
+https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/chunklist.m3u8
+
+
+
+
 
 
