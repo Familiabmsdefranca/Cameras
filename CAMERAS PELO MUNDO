@@ -39,5 +39,14 @@ https://zssd-condorhd.hls.camzonecdn.com/CamzoneStreams/zssd-condorhd/chunklist.
 #EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",SAN DIEGO- CALIFORNIA-URSO PANDA
 https://zssd-panda.hls.camzonecdn.com/CamzoneStreams/zssd-panda/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",RUSSIA - SOCHI
+https://edge04.balticlivecam.com/blc/p_RU_Sochi_Roza_Dolina/tracks-v1/mono.m3u8?token=f5f4dd5fb41e5760681b5d93076ea00a%3A1613495574964
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",RUSSIA - SOCHI
+https://edge04.balticlivecam.com/blc/p_RU_Sochi_Roza_hutor/tracks-v1/mono.m3u8?token=4154e7b5d2340e5275471ffdac124978%3A1613496350566
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",RUSSIA - SOCHI-POLYANA
+https://edge01.balticlivecam.com/blc/p_RU_Sochi_Krasnaya_Polyana/tracks-v1/mono.m3u8?token=0cc71f5e5cb85c41ddd7c346ea271cb6%3A1613498492468
+
 
 
