@@ -40,25 +40,21 @@ https://zssd-condorhd.hls.camzonecdn.com/CamzoneStreams/zssd-condorhd/chunklist.
 https://zssd-panda.hls.camzonecdn.com/CamzoneStreams/zssd-panda/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",RUSSIA - SOCHI
-https://edge04.balticlivecam.com/blc/p_RU_Sochi_Roza_Dolina/tracks-v1/mono.m3u8?token=f5f4dd5fb41e5760681b5d93076ea00a%3A1613495574964
-
+http://sochi.camera:8080/cam_158/index.m3u8 
 #EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",RUSSIA - SOCHI
-https://edge04.balticlivecam.com/blc/p_RU_Sochi_Roza_hutor/tracks-v1/mono.m3u8?token=4154e7b5d2340e5275471ffdac124978%3A1613496350566
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",RUSSIA - SOCHI-POLYANA
-https://edge01.balticlivecam.com/blc/p_RU_Sochi_Krasnaya_Polyana/tracks-v1/mono.m3u8?token=0cc71f5e5cb85c41ddd7c346ea271cb6%3A1613498492468
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",RUSSIA - SOCHI-ADLER PRAIA
-https://edge01.balticlivecam.com/blc/p_Ru_Adler_beach/tracks-v1/mono.m3u8?token=6368ea90ba107304454eb1a8a66c65a6%3A1613501083770
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",RUSSIA - SOCHI-PRIMORSKY PRAIA
-https://edge04.balticlivecam.com/blc/p_RU_Sochi_Primorsky_Beach/tracks-v1/mono.m3u8?token=61f0579bc268f5994bd6f5e8ae9ceb3a%3A1613501262326
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",RUSSIA - SOCHI- PRAÇA DA ESTAÇÃO FERROVIARIA
-https://edge04.balticlivecam.com/blc/p_RU_Sochi_station_square/tracks-v1/mono.m3u8?token=997af21bf2e85c0315d9cb6f820cab9a%3A1613501355543
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",RUSSIA - SOCHI-IGREJA DO SANTO PRÍNCIPE VLADIMIR
-https://edge04.balticlivecam.com/blc/p_RU_Church_of_the_Holy_Prince_Vladimir_Sochi/tracks-v1/mono.m3u8?token=654a8d46182f5c1759ad225f4412db9f%3A1613505793727
+http://sochi.camera:8080/cam_1/index.m3u8 #Name: iptvtools_783
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",RUSSIA - SOCHI
+http://sochi.camera:8080/cam_204/index.m3u8 #Name: iptvtools_784
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",RUSSIA - SOCHI
+http://sochi.camera:8080/cam_177/index.m3u8 #Name: iptvtools_786
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",RUSSIA - SOCHI
+http://sochi.camera:8080/cam_178/index.m3u8 #Name: iptvtools_787
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",RUSSIA - SOCHI
+http://sochi.camera:8080/cam_182/index.m3u8 #Name: iptvtools_788
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",RUSSIA - SOCHI
+http://sochi.camera:8080/cam_183/index.m3u8 #Name: iptvtools_790
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",RUSSIA - SOCHI
+http://sochi.camera:8080/cam_185/index.m3u8 #Name: iptvtools_791
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="Câmeras",BRASIL- PRAIA DE COPACABANA
 https://videos-3.earthcam.com/fecnetwork/6593.flv/chunklist_w521669038.m3u8
