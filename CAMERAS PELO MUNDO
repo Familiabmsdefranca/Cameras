@@ -52,7 +52,7 @@ https://video-cam.bitcom.psi.br/CSL-PRACA-DANTE-SINIMBU/CSL-PRACA-DANTE-SINIMBU.
 https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-id="Nablus" tvg-name="CIDADE DE NABLUS" tvg-logo="http://logo.jpg" group-title="",complemento
+#EXTINF:-1 tvg-id="Nablus" tvg-name="CIDADE DE NABLUS" tvg-logo="http://logo.jpg" group-title="",CISJORDANIA- CIDADE DE NABLUS
 http://htvmada.mada.ps:8888/nabluslive/tracks-v1a1/mono.m3u8  
 
 #EXTINF:-1 tvg-id="COPACABANA" tvg-name="COPACABANA RIO DE JANEIRO" tvg-logo="http://logo.jpg" group-title="",RJ- COPACABANA
