@@ -55,28 +55,28 @@ https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.st
 #EXTINF:-1 tvg-id="Nablus" tvg-name="CIDADE DE NABLUS" tvg-logo="http://logo.jpg" group-title="",complemento
 http://htvmada.mada.ps:8888/nabluslive/tracks-v1a1/mono.m3u8  
 
-#EXTINF:-1 tvg-id="COPACABANA" tvg-name="COPACABANA RIO DE JANEIRO" tvg-logo="http://logo.jpg" group-title="",
+#EXTINF:-1 tvg-id="COPACABANA" tvg-name="COPACABANA RIO DE JANEIRO" tvg-logo="http://logo.jpg" group-title="",RJ- COPACABANA
 https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/6593/2017/10/01/1300.mp4/playlist.m3u8   
 
-#EXTINF:-1 tvg-id="PONTE DA AMIZADE" tvg-name="PONTE DA AMIZADE BR/PY " tvg-logo="http://logo.jpg" group-title="",
+#EXTINF:-1 tvg-id="PONTE DA AMIZADE" tvg-name="PONTE DA AMIZADE BR/PY " tvg-logo="http://logo.jpg" group-title="",PONTE DA AMIZADE
 https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/chunklist.m3u8  
 
-#EXTINF:-1 tvg-id="TIME SQUARE" tvg-name="TIME SQUARE- NEW YORK" tvg-logo="http://logo.jpg" group-title="",
+#EXTINF:-1 tvg-id="TIME SQUARE" tvg-name="TIME SQUARE- NEW YORK" tvg-logo="http://logo.jpg" group-title="",TIME SQUARE
 https://videos3.earthcam.com/fecnetwork/4017timessquare.flv/chunklist_w2120301051.
 
-#EXTINF:-1 tvg-id="NY" tvg-name="NY TIME SQUARE" tvg-logo="http://logo.jpg" group-title="",
+#EXTINF:-1 tvg-id="NY" tvg-name="NY TIME SQUARE" tvg-logo="http://logo.jpg" group-title="", TIME SQUARE NY
 https://videos3.earthcam.com/fecnetwork/9974.flv/chunklist_w1802587375.m3u8 
 
-#EXTINF:-1 tvg-id="NY" tvg-name="5 AVENIDA" tvg-logo="http://logo.jpg" group-title="",
+#EXTINF:-1 tvg-id="NY" tvg-name="5 AVENIDA" tvg-logo="http://logo.jpg" group-title="",5 AVENIDA 
 https://videos3.earthcam.com/fecnetwork/15294.flv/chunklist_w411913482.m3u8  
 
-#EXTINF:-1 tvg-id="CALIFORNIA" tvg-name="SLOPPY JOE'S BAR-DUVAL " tvg-logo="http://logo.jpg" group-title="",
+#EXTINF:-1 tvg-id="CALIFORNIA" tvg-name="SLOPPY JOE'S BAR-DUVAL " tvg-logo="http://logo.jpg" group-title="",SLOPPY JOE'S BAR 
 https://cdn3.wowza.com/1/V0d4WDJWSEFtYlhp/V1FuV0Np/hls/43w0jsff/1728/chunklist.m3u8  
 
-#EXTINF:-1 tvg-id="PALCO" tvg-name="SLOPPY JOE'S BAR -PALCO " tvg-logo="http://logo.jpg" group-title="",
+#EXTINF:-1 tvg-id="PALCO" tvg-name="SLOPPY JOE'S BAR -PALCO " tvg-logo="http://logo.jpg" group-title="",PALCO- SLOPPY JOE'S BAR
 https://wowzaprod178-i.akamaihd.net/hls/live/677332/0ea4aa91/0ea4aa91_1_1728/chunklist.m3u8 
 
-#EXTINF:-1 tvg-id="DUVAL" tvg-name="DUVAL-CALIFORNIA" tvg-logo="http://logo.jpg" group-title="",
+#EXTINF:-1 tvg-id="DUVAL" tvg-name="DUVAL-CALIFORNIA" tvg-logo="http://logo.jpg" group-title="",RUA DUVAL - CALIFORNIA
 https://wowzaprod179-i.akamaihd.net/hls/live/678105/4aed1b45/4aed1b45_1_1728/chunklist.m3u8  
 
 
